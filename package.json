@@ -1,5 +1,5 @@
 {
-  "name": "@3622442/tiledesk-dashboard",
+  "name": "@imanmagomedov/tiledesk-dashboard",
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
@@ -13,10 +13,10 @@
   },
   "author": "Tiledesk SRL",
   "license": "MIT License",
-  "homepage": "https://www.tiledesk.com",
+  "homepage": "https://github.com/imanmagomedov/tiledesk-dashboard",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tiledesk/tiledesk-dashboard"
+    "url": "https://github.com/imanmagomedov/tiledesk-dashboard"
   },
   "bin": {
     "tiledesk-dashboard": "./bin/dashboard"
